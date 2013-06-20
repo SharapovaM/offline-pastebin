@@ -1,0 +1,12 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: pastebin
+Upstream-Contact: Manish Sharma <manish09.iitroorkee@gmail.com>
+Source: UNKNOWN
+
+Files: *
+Copyright: (C) 2013 Manish Sharma manish09.iitroorkee@gmail.com
+Copyright: (C) 2013 Manish Sharma manish09.iitroorkee@gmail.com</property>
+Copyright: (C) 2013 Manish Sharma manish09.iitroorkee@gmail.com</property><property name="can_focus">False</property>
+License: GPL-2
+ The full text of the GPL is distributed in
+ /usr/share/common-licenses/GPL-2 on Debian systems.

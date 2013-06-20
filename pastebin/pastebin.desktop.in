@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Pastebin
+_Comment=Pastebin application
+Categories=GNOME;Utility;
+Exec=pastebin
+Icon=/usr/share/pastebin/media/pastebin.svg
+Terminal=false
+Type=Application
